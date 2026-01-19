@@ -75,6 +75,58 @@ The problems are designed to strengthen understanding of **lambda syntax**, **LI
 
 ---
 
+### 🔹 `regex` branch
+This branch focuses on **Regular Expressions (Regex) in C#**, combined with **OOP concepts and Custom Exception handling**.  
+The problems cover **validation**, **data extraction**, and **real-world input handling** scenarios without relying on LINQ where specified.
+
+---
+
+### 📝 Practice Problems
+
+- User Registration System  
+  Create a user registration system using OOP, Regex, and custom exceptions. Validate phone number, email, and password using regular expressions. Throw a custom exception if validation fails and store only valid users.
+
+- Valid Phone and Email Extraction  
+  Given a list of strings containing mixed content, extract all valid email addresses and valid Indian phone numbers using Regex. Store them in separate lists and display the results. Do not use LINQ.
+
+- Username Validation  
+  Validate a username using Regex with rules such as starting with a letter, allowing only letters, digits, and underscores, and enforcing a specific length range.
+
+- License Plate Number Validation  
+  Validate a license plate number using Regex where the format consists of uppercase letters followed by digits.
+
+- Hex Color Code Validation  
+  Validate hexadecimal color codes using Regex based on standard hex color rules.
+
+- Extract Email Addresses from Text  
+  Extract all valid email addresses from a given block of text using Regex.
+
+- Extract Capitalized Words  
+  Extract all words that start with an uppercase letter from a given sentence using Regex.
+
+- Credit Card Number Validation  
+  Validate credit card numbers using Regex by identifying supported card formats based on starting digits and length.
+
+- Extract Programming Language Names  
+  Extract programming language names from a given text using Regex.
+
+- Extract Currency Values  
+  Extract currency values from text using Regex.
+
+- Social Security Number (SSN) Validation  
+  Validate a Social Security Number using Regex based on its standard format.
+
+---
+
+### 🎯 Learning Outcomes
+- Master **Regex pattern writing and matching**
+- Perform **input validation** using Regex
+- Combine **OOP, Regex, and Custom Exceptions**
+- Extract structured data from unstructured text
+- Build **robust and secure input-handling logic** in C#
+
+---
+
 ## 👤 Author
 **Prashant Varshney**  
 B.Tech CSE (Data Analytics)  
