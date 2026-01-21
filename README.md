@@ -141,9 +141,9 @@ This branch focuses on **unit testing in C# using NUnit (and MSTest concepts)**.
 │ └── (other problem files)
 │
 └── Tests
-├── CalculatorTests.cs
-├── StringUtilsTests.cs
-└── (corresponding test files)
+| ├── CalculatorTests.cs
+| ├── StringUtilsTests.cs
+| └── (corresponding test files)
 ```
 
 ---
