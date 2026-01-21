@@ -132,6 +132,22 @@ This branch focuses on **unit testing in C# using NUnit (and MSTest concepts)**.
 
 ---
 
+### 📁 Folder Structure
+```
+└── NunitProblems
+├── Problems
+│ ├── Calculator.cs
+│ ├── StringUtils.cs
+│ └── (other problem files)
+│
+└── Tests
+├── CalculatorTests.cs
+├── StringUtilsTests.cs
+└── (corresponding test files)
+```
+
+---
+
 ### 📝 Practice Problems
 
 - **Basic Calculator Testing**  
